@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> HTML PRACTICE </title>
+</head>
+<body>
+	<div id=“first”>
+		<h1> First section </h1>
+	</div>
+</body>
+</html>
